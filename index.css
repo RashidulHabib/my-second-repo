@@ -4,3 +4,9 @@ h1{
 p{
     background-color: cornsilk;
 }
+
+h2{
+    color: crimson;
+    background-color: darkgray;
+    border: 2px green;
+}
